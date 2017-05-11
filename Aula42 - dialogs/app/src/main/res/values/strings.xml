@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula42</string>
+    <string name="msg1">Mensagem 1</string>
+    <string name="title1">Titulo 1</string>
+    <string name="yes">sim</string>
+    <string name="no">não</string>
+
+    <!--R.array.strArray-->
+    <string-array name="strArray1">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+    </string-array>
+</resources>
